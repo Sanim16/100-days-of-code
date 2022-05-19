@@ -2,11 +2,11 @@
 
 ### Day 0: May 19, 2022
 
-**Today's Progress**: Started the @freecodecamp responsive web design course.
+**Today's Progress**: Started the @freecodecamp responsive web design course. Completed the Learn HTML course
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** It was smooth and progressed fuildly, and I feel I'm getting the hang of it.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Free Code Camp course](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
 <!--
 Sample Log Day Reporting Format
