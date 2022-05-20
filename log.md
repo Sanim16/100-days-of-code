@@ -2,9 +2,18 @@
 
 ### Day 0: May 19, 2022
 
-**Today's Progress**: Started the @freecodecamp responsive web design course. Completed the Learn HTML course
+**Today's Progress**: Started the @freecodecamp responsive web design course. Completed the Learn HTML module
 
 **Thoughts:** It was smooth and progressed fuildly, and I feel I'm getting the hang of it.
+
+**Link to work:** [Free Code Camp course](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+
+
+### Day 1: May 20, 2022
+
+**Today's Progress**: Continued with the @freecodecamp responsive web design course. Completed the Learn Basic CSS module
+
+**Thoughts:** It went well although i was a bit sleepy. I will look into changing the time slot for it.
 
 **Link to work:** [Free Code Camp course](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
