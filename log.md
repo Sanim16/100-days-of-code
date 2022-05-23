@@ -29,11 +29,11 @@
 
 ### Day 3: May 22, 2022
 
-**Today's Progress**: Continued with the @freecodecamp responsive web design course. Completed the Learn HTML forms module and the survey form certification project.
+**Today's Progress**: Continued with the @freecodecamp responsive web design course. Completed the Learn HTML forms module and the survey form certification project(link below).
 
 **Thoughts:** It was good and hands on project work definitely beats tutorials.
 
-**Link to work:** https://github.com/Sanim16/100-days-of-code/tree/master/Day%20003/survey_form [Free Code Camp course](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+**Link to work:** https://github.com/Sanim16/100-days-of-code/tree/master/Day%20003/survey_form
 
  
 <!--
