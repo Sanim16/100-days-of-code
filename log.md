@@ -33,9 +33,9 @@
 
 **Thoughts:** It was good and hands on project work definitely beats tutorials.
 
-**Link to work:** [Free Code Camp course](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+**Link to work:** https://github.com/Sanim16/100-days-of-code/tree/master/Day%20003/survey_form [Free Code Camp course](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
-day 3 of #100DaysOfCode 
+ 
 <!--
 Sample Log Day Reporting Format
 ### Day 0: February 30, 2016 (Example 2)
