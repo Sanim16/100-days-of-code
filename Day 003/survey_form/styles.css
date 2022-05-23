@@ -1,0 +1,51 @@
+body{
+    background-size: cover;
+    /*background: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5) url(https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg));*/
+    background-image: url(https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg);
+}
+h1, #description {
+    color: white;
+    text-align: center;
+}
+form{
+    background-color: rgba(9, 9, 24, 0.9);
+    color: white;
+    margin: auto;
+    padding: 1.1% 1.1%;
+    min-width: 400px;
+    max-width: 800px;
+    width: 80vw;
+    font-size: 1em;
+}
+.first input, select, textarea{
+    width: 100%;
+    margin: 0.5em auto 0.5em 0;
+}
+input, select {
+    margin: 0.5em auto 0.5em 0;
+    height: 2em;
+    font-size: 1em;
+}
+input[type=radio] {
+    vertical-align: middle;
+    margin-right: 0.5em;
+}
+input[type=checkbox] {
+    vertical-align: middle;
+    margin-right: 0.5em;
+}
+label{
+    display: block;
+    margin: 0.5em 0;
+}
+input[type=submit] {
+    background-color: rgb(8, 197, 93);
+    color: white;
+    min-width: 400px;
+    max-width: 800px;
+    width: 80vw;
+    font-size: 1.2em;    
+}
+fieldset{
+    border: 0;
+}
