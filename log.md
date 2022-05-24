@@ -35,6 +35,24 @@
 
 **Link to work:** https://github.com/Sanim16/100-days-of-code/tree/master/Day%20003/survey_form
 
+
+### Day 4: May 23, 2022
+
+**Today's Progress**: Continued with the @freecodecamp responsive web design course. Completed the Learn CSS Box module
+
+**Thoughts:** It went well.
+
+**Link to work:** [Free Code Camp course](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+
+
+### Day 5: May 24, 2022
+
+**Today's Progress**: Continued with the @freecodecamp responsive web design course. Completed the Learn CSS Flexbox module
+
+**Thoughts:** It went well.
+
+**Link to work:** [Free Code Camp course](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+
  
 <!--
 Sample Log Day Reporting Format
