@@ -53,6 +53,15 @@
 
 **Link to work:** [Free Code Camp course](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
+
+### Day 6: May 25, 2022
+
+**Today's Progress**: Continued with the @freecodecamp responsive web design course. Completed the Learn Typography module and started the Learn Accessibility Module
+
+**Thoughts:** It went well.
+
+**Link to work:** [Free Code Camp course](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+
  
 <!--
 Sample Log Day Reporting Format
