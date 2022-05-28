@@ -63,7 +63,7 @@
 **Link to work:** [Free Code Camp course](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
 
-### Day 7: May 25, 2022
+### Day 7: May 26, 2022
 
 **Today's Progress**: Continued with the @freecodecamp responsive web design course. Completed the Learn Accessibility Module
 
@@ -71,6 +71,14 @@
 
 **Link to work:** [Free Code Camp course](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
+
+### Day 8: May 27, 2022
+
+**Today's Progress**: Watched a tutorial on flexbox on YouTube https://youtu.be/-Wlt8NRtOpo and applied it to a project, built a responsive navbar and continued with the @freecodecamp responsive web design course.
+
+**Thoughts:** It went well.
+
+**Link to work:** [Free Code Camp course](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
 <!--
 Sample Log Day Reporting Format
