@@ -33,7 +33,7 @@
 
 **Thoughts:** It was good and hands on project work definitely beats tutorials.
 
-**Link to work:** https://github.com/Sanim16/100-days-of-code/tree/master/Day%20003/survey_form
+**Link to work:** https://github.com/Sanim16/100-days-of-code/tree/master/Day%20003/survey_form/index.html
 
 
 ### Day 4: May 23, 2022
@@ -78,7 +78,7 @@
 
 **Thoughts:** It went well.
 
-**Link to work:** [Free Code Camp course](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+**Link to work:** https://github.com/Sanim16/100-days-of-code/tree/master/Day%20008/flexbox_training/index.html
 
 <!--
 Sample Log Day Reporting Format
