@@ -85,7 +85,7 @@
 
 **Today's Progress**: Continued with the @freecodecamp responsive web design course. Completed the Tribute page certification project(link below).
 
-**Thoughts:** It was good and hands on project work helps with retention and showing cracks.
+**Thoughts:** It was good and hands on project work helps with retention and showing any knowledge gaps.
 
 **Link to work:** https://github.com/Sanim16/100-days-of-code/tree/master/Day%20009/tribute/index.html
 
