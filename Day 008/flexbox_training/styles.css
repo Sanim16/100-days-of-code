@@ -77,4 +77,42 @@ html, body {
     ::placeholder{
         color: #88d8b0;
     }
+    main > .main {
+        background-color: #88d8b0;
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+    }
+    .img1 > img {
+        height: 150px;
+        width: 150px;
+        display: flex;
+    }
+    body > main {
+        display: flex;
+        width: 75%;
+        margin: auto;
+    }
+    
+}
+main > .main {
+    background-color: #88d8b0;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    padding: 10px;
+}
+.img1 > img {
+    height: 250px;
+    width: 250px;
+    display: flex;
+}
+body > main {
+    display: flex;
+    width: 75%;
+    margin: auto;
+}
+body > main .img1 {
+    display: flex;
+    flex: 1;
 }

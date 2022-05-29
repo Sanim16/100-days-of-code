@@ -80,6 +80,16 @@
 
 **Link to work:** https://github.com/Sanim16/100-days-of-code/tree/master/Day%20008/flexbox_training/index.html
 
+
+### Day 9: May 28, 2022
+
+**Today's Progress**: Continued with the @freecodecamp responsive web design course. Completed the Tribute page certification project(link below).
+
+**Thoughts:** It was good and hands on project work helps with retention and showing cracks.
+
+**Link to work:** https://github.com/Sanim16/100-days-of-code/tree/master/Day%20009/tribute/index.html
+
+
 <!--
 Sample Log Day Reporting Format
 ### Day 0: February 30, 2016 (Example 2)
