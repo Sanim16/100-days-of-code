@@ -90,6 +90,15 @@
 **Link to work:** https://github.com/Sanim16/100-days-of-code/tree/master/Day%20009/tribute/index.html
 
 
+### Day 10: May 29, 2022
+
+**Today's Progress**: Continued with the @freecodecamp responsive web design course. Completed the More about CSS Pseudo selectors module.
+
+**Thoughts:** It went well.
+
+**Link to work:** [Free Code Camp course](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+
+
 <!--
 Sample Log Day Reporting Format
 ### Day 0: February 30, 2016 (Example 2)
