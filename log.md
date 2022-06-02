@@ -117,6 +117,15 @@
 **Link to work:** [Free Code Camp course](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
 
+### Day 13: June 01, 2022
+
+**Today's Progress**: Continued with the @freecodecamp responsive web design course. Completed the learn Responsive Web Design module.
+
+**Thoughts:** It went well.
+
+**Link to work:** [Free Code Camp course](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+
+
 <!--
 Sample Log Day Reporting Format
 ### Day 0: February 30, 2016 (Example 2)
