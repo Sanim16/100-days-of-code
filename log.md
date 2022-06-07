@@ -135,6 +135,24 @@
 **Link to work:** [Free Code Camp course](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
 
+### Day 15: June 03, 2022
+
+**Today's Progress**: Continued with the @freecodecamp responsive web design course. Continued the Technical Documentation page Certification project.
+
+**Thoughts:** It is going well.
+
+**Link to work:** [Free Code Camp course](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+
+
+### Day 16, 17 & 18: June 04, 05 & 06 2022
+
+**Today's Progress**: Practised for the CKA exam, did a lot of labs from [Kode Kloud](https://kodekloud.com/) I will resume with the @freecodecamp responsive web design course after the CKA exam.
+
+**Thoughts:** It is going well.
+
+**Link to work:** [Kode Kloud](https://kodekloud.com/)
+
+
 <!--
 Sample Log Day Reporting Format
 ### Day 0: February 30, 2016 (Example 2)
