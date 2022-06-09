@@ -153,6 +153,24 @@
 **Link to work:** [Kode Kloud](https://kodekloud.com/)
 
 
+### Day 19 & 20: June 07 & 08 2022
+
+**Today's Progress**: Revised for the CKA exam, did the labs from [Kode Kloud](https://kodekloud.com/) again and also took the CKA practice exam. I will resume with the @freecodecamp responsive web design course after the CKA exam.
+
+**Thoughts:** It is going well.
+
+**Link to work:** [Kode Kloud](https://kodekloud.com/)
+
+
+### Day 21: June 09, 2022
+
+**Today's Progress**: Continued with the @freecodecamp responsive web design course having taking the CKA certification exam. Completed the Technical Documentation page certification project(link below).
+
+**Thoughts:** It was good and hands on project is always relevant to show any gaps in knowledge.
+
+**Link to work:** https://github.com/Sanim16/100-days-of-code/tree/master/Day%20021/technical_documentation/index.html
+
+
 <!--
 Sample Log Day Reporting Format
 ### Day 0: February 30, 2016 (Example 2)
