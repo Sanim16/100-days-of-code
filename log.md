@@ -171,6 +171,24 @@
 **Link to work:** https://github.com/Sanim16/100-days-of-code/tree/master/Day%20021/technical_documentation/index.html
 
 
+### Day 22, 23, 24 & 25: June 10, 11, 12 & 13 2022
+
+**Today's Progress**: Watched tutorials on CSS, flexbox, CSS Grid and responsive web design, Continued with the @freecodecamp responsive web design course having passed the CKA certification exam.
+
+**Thoughts:** It was good.
+
+**Link to work:** [Free Code Camp course](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+
+
+### Day 26: June 14 2022
+
+**Today's Progress**: Watched a tutorial on CSS variables on YouTube and continued with the @freecodecamp responsive web design course. Started Started the learn CSS variables by building a City skyline module.
+
+**Thoughts:** It was good.
+
+**Link to work:** [Free Code Camp course](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+
+
 <!--
 Sample Log Day Reporting Format
 ### Day 0: February 30, 2016 (Example 2)
