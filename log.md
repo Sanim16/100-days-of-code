@@ -182,9 +182,18 @@
 
 ### Day 26: June 14 2022
 
-**Today's Progress**: Watched a tutorial on CSS variables on YouTube and continued with the @freecodecamp responsive web design course. Started Started the learn CSS variables by building a City skyline module.
+**Today's Progress**: Watched a tutorial on CSS variables on YouTube and continued with the @freecodecamp responsive web design course. Started the learn CSS variables by building a City skyline module.
 
 **Thoughts:** It was good.
+
+**Link to work:** [Free Code Camp course](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+
+
+### Day 27: June 15, 2022
+
+**Today's Progress**: Continued with the @freecodecamp responsive web design course. Completed the learn CSS Variables  module.
+
+**Thoughts:** It went well.
 
 **Link to work:** [Free Code Camp course](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
