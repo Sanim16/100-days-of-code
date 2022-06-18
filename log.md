@@ -198,6 +198,15 @@
 **Link to work:** [Free Code Camp course](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
 
+### Day 28 & 29: June 16 & 17 2022
+
+**Today's Progress**: Watched tutorials on CSS positioning, based on these I made some changes to the technical documentation project done on day 21. I am now able to keep the navbar from moving while scrolling the rest of the page. Continued with the @freecodecamp responsive web design course. Started the learn CSS Grid by building a Magazine module.
+
+**Thoughts:** It was good.
+
+**Link to work:** [Free Code Camp course](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+
+
 <!--
 Sample Log Day Reporting Format
 ### Day 0: February 30, 2016 (Example 2)
