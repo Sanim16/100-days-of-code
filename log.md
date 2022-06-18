@@ -207,6 +207,15 @@
 **Link to work:** [Free Code Camp course](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
 
+### Day 30: June 18, 2022
+
+**Today's Progress**: Watched tutorials on CSS Grid, then continued with the @freecodecamp responsive web design course. Completed the learn CSS Grid by building a magazine module.
+
+**Thoughts:** It went well.
+
+**Link to work:** [Free Code Camp course](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+
+
 <!--
 Sample Log Day Reporting Format
 ### Day 0: February 30, 2016 (Example 2)
