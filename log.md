@@ -128,7 +128,7 @@
 
 ### Day 14: June 02, 2022
 
-**Today's Progress**: Continued with the @freecodecamp responsive web design course. Started the Technical Documentation page Certification project.
+**Today's Progress**: f
 
 **Thoughts:** It is going well.
 
@@ -212,6 +212,15 @@
 **Today's Progress**: Watched tutorials on CSS Grid, then continued with the @freecodecamp responsive web design course. Completed the learn CSS Grid by building a magazine module.
 
 **Thoughts:** It went well.
+
+**Link to work:** [Free Code Camp course](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+
+
+### Day 31: June 19, 2022
+
+**Today's Progress**: Continued with the @freecodecamp responsive web design course. Started the Product Landing page Certification project.
+
+**Thoughts:** It is going well.
 
 **Link to work:** [Free Code Camp course](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
