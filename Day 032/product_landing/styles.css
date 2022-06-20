@@ -1,0 +1,124 @@
+html {
+    background-color: #eee;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body {
+    background-color: #eee;
+    box-sizing: border-box;
+    padding: 0rem 5rem 3rem 5rem;
+    margin: 0;
+}
+#header {
+    display: flex;
+    margin-bottom: 2rem;
+    position: sticky;
+    top: 0;
+    background-color: #eee;
+}
+.price {
+    display: flex;
+    width: 100%;
+}
+@media screen and (min-width: 1200px) {
+    #nav-bar {
+        display: flex;
+        margin-left: auto;
+        justify-content: space-around;
+        padding: 0.5rem;
+        width: 30%;
+        align-items: center;
+    }
+}
+@media screen and (max-width: 1300px) {
+    #header {
+        flex-direction: column;
+        align-items: center;
+    }
+    #nav-bar {
+        
+        flex-direction: column;
+        align-items: center;
+        margin: auto;
+    }
+    .price {
+        display: flex;
+        flex-direction: column;
+        width: 70%;
+        align-items: center;
+    }
+
+}
+#nav-bar {
+    display: flex;
+    margin-left: auto;
+    justify-content: space-around;
+    padding: 0.5rem;
+    width: 30%;
+    align-items: center;
+}
+
+#header-img {
+    width: 40vw;
+    min-width: 300px;
+}
+
+.nav-link, .nav-link:focus, .nav-link:visited {
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: black;
+}
+#submit {
+    background-color: #f1c40f;
+    padding: 0.5rem 2rem;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.form, #form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 1.5rem;
+}
+#email {
+    width: 25vw;
+    font-size: 1.3rem;
+    padding: 5px;
+}
+h1 {
+    margin: 0;
+}
+.main-body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.content {
+    font-size: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.content h2 {
+    font-size: 2.2rem;
+}
+#pricing {
+    width: 100%;
+}
+.prices {
+    border: 1px solid black;
+    margin: 2rem;
+    flex: 1;
+    text-align: center;
+}
+h3 {
+    background-color: rgba(84, 82, 90, 0.699);
+    margin-top: 0%;
+    min-width: 282px;
+    padding: .5rem 1rem;
+}
+i {
+    color: orangered;
+    font-size: 3rem;
+}

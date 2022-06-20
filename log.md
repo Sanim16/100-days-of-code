@@ -225,6 +225,15 @@
 **Link to work:** [Free Code Camp course](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
 
+### Day 32: June 20, 2022
+
+**Today's Progress**: Continued with the @freecodecamp responsive web design course. Completed the Product Landing page Certification project.
+
+**Thoughts:** It is going well.
+
+**Link to work:** https://github.com/Sanim16/100-days-of-code/tree/master/Day%20032/product_landing/index.html
+
+
 <!--
 Sample Log Day Reporting Format
 ### Day 0: February 30, 2016 (Example 2)
