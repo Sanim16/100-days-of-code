@@ -1,0 +1,54 @@
+- name: webpage gen on multiple machines
+  hosts: all
+#next line makes the task run as root user on the server
+  become: yes
+  tasks: 
+   - name: Install apache2 httpd
+     when: ansible_os_family == "Debian"
+     ansible.builtin.apt:
+       name: apache2
+       state: present
+   - name: Install httpd
+     when: ansible_os_family == "RedHat"
+     ansible.builtin.yum:
+       name: httpd
+       state: present
+   - name: Start service apache2, if not started
+     when: ansible_os_family == "Debian"
+     ansible.builtin.service:
+       name: apache2
+       state: started
+   - name: Enable service apache2, and not touch the state
+     when: ansible_os_family == "Debian"
+     ansible.builtin.service:
+       name: apache2
+       enabled: yes
+   - name: Start service httpd, if not started
+     when: ansible_os_family == "RedHat"
+     ansible.builtin.service:
+       name: httpd
+       state: started
+   - name: Enable service httpd, and not touch the state
+     when: ansible_os_family == "RedHat"
+     ansible.builtin.service:
+       name: httpd
+       enabled: yes
+   - name: Create a directory if it does not exist
+     ansible.builtin.file:
+       path: /var/www
+       state: directory
+       mode: '0755'
+   - name: Create a directory if it does not exist
+     ansible.builtin.file:
+       path: /var/www/html
+       state: directory
+       mode: '0755'
+   - name: Creating a file with content
+     copy:
+       dest: "/var/www/html/index.html"
+       content: |
+         <h1>Hello World from Musa Momoh Sani @ {{ ansible_os_family }}</h1>
+
+
+
+

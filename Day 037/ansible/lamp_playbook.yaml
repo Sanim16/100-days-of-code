@@ -1,0 +1,100 @@
+- name: Install LAMP stack and deploy site
+  hosts: target5
+#next line makes the task run as root user on the server
+  become: yes
+  tasks:
+   - name: Install firewalld
+     when: ansible_os_family == "RedHat"
+     ansible.builtin.yum:
+       name: firewalld
+       state: present
+   - name: Start service firewalld, if not started
+     when: ansible_os_family == "RedHat"
+     ansible.builtin.service:
+       name: firewalld
+       state: started
+   - name: Enable service firewalld, and not touch the state
+     when: ansible_os_family == "RedHat"
+     ansible.builtin.service:
+       name: firewalld
+       enabled: yes
+   - name: Install Mariadb
+     ansible.builtin.package:
+       name: "{{ item }}"
+       state: present
+     with_items:
+       - mariadb-server
+       - python3-PyMySQL
+   - name: start Mariadb
+     ansible.builtin.service:
+       name: mariadb
+       state: started
+   - name: Enable Mariadb
+     ansible.builtin.service:
+       name: mariadb
+       enabled: yes
+   - name: Configure firewall for database
+     ansible.builtin.command: sudo firewall-cmd --permanent --zone=public --add-port=3306/tcp
+   - name: Reload firewall for database
+     ansible.builtin.command: sudo firewall-cmd --reload
+   - name: Install packages
+     when: ansible_os_family == "RedHat"
+     ansible.builtin.package:
+       name: "{{ item }}"
+       state: present
+     with_items:
+       - php
+       - php-mysqlnd
+       - php-pdo
+       - php-gd
+       - php-mbstring
+   - name: Create a new database with name 'ecomdb'
+     community.mysql.mysql_db:
+       check_implicit_admin: yes
+       login_user: root
+       login_password: 
+       name: ecomdb
+       state: present
+   - name: Create database user with name 'ecomuser' and password 'ecompassword' with all database privileges
+     community.mysql.mysql_user:
+       name: ecomuser
+       password: ecompassword
+       priv: '*.*:ALL'
+       state: present
+   - name: Copy using inline content
+     ansible.builtin.copy:
+       dest: $HOME/db-load-script.sql
+       src: /home/ubuntu/test-project/db-load-script.sql
+   - name: Run mysql script
+     community.mysql.mysql_db:
+       state: import
+       name: all
+       target: $HOME/db-load-script.sql
+   - name: Install packages
+     when: ansible_os_family == "RedHat"
+     ansible.builtin.package:
+       name: "{{ item }}"
+       state: present
+     with_items:
+       - httpd
+       - git
+   - name: Configure firewall for database
+     ansible.builtin.command: sudo firewall-cmd --permanent --zone=public --add-port=80/tcp
+   - name: Reload firewall for database
+     ansible.builtin.command: sudo firewall-cmd --reload
+   - name: Change apache index file
+     ansible.builtin.command: sudo sed -i 's/index.html/index.php/g' /etc/httpd/conf/httpd.conf
+   - name: ReStart service httpd
+     when: ansible_os_family == "RedHat"
+     ansible.builtin.service:
+       name: httpd
+       state: restarted
+   - name: Enable service httpd, and not touch the state
+     when: ansible_os_family == "RedHat"
+     ansible.builtin.service:
+       name: httpd
+       enabled: yes
+   - name: Download code from GIT
+     ansible.builtin.command: git clone https://github.com/kodekloudhub/learning-app-ecommerce.git /var/www/html/     
+   - name: Update index file
+     ansible.builtin.command: sudo sed -i 's/172.20.1.101/localhost/g' /var/www/html/index.php

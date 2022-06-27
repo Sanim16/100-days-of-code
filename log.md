@@ -234,6 +234,42 @@
 **Link to work:** https://github.com/Sanim16/100-days-of-code/tree/master/Day%20032/product_landing/index.html
 
 
+### Day 33: June 21 2022
+
+**Today's Progress**: Watched tutorials on CSS Transitions, Animations and responsive web design, then continued with the @freecodecamp responsive web design course. Started the learn CSS Transforms by building a Penguin module.
+
+**Thoughts:** It was good.
+
+**Link to work:** [Free Code Camp course](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+
+
+### Day 34 & 35: June 22 & 23 2022
+
+**Today's Progress**: Took a [Udemy course](https://www.udemy.com/share/1013qA3@87g3vJSOGnmLb1mRXxROR6Sa81n_OB8VCZQY-gGWrKL5zU5bEj86Xl4PEVt7Qcki/) on Ansible by [Kode Kloud](https://kodekloud.com/). I also practised writing YAML.
+
+**Thoughts:** It was good.
+
+**Link to work:** [Udemy course](https://www.udemy.com/share/1013qA3@87g3vJSOGnmLb1mRXxROR6Sa81n_OB8VCZQY-gGWrKL5zU5bEj86Xl4PEVt7Qcki/)
+
+
+### Day 36 & 37: June 24 & 25 2022
+
+**Today's Progress**: Practised writing ansible playbooks, and successfully wote a playbook to automate deployment of a LAMP -Linux Apache2 Mariadb and PHP stack. I will resume with the @freecodecamp responsive web design course tomorrow.
+
+**Thoughts:** It is going well.
+
+**Link to work:** https://github.com/Sanim16/100-days-of-code/tree/master/Day%20037/ansible/lamp_playbook.yaml
+
+
+### Day 38: June 26, 2022
+
+**Today's Progress**: Continued with the @freecodecamp responsive web design course. Completed the learn CSS Transforms by building a Penguin Module.
+
+**Thoughts:** It is going well.
+
+**Link to work:** [Free Code Camp course](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+
+
 <!--
 Sample Log Day Reporting Format
 ### Day 0: February 30, 2016 (Example 2)
