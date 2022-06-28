@@ -254,7 +254,7 @@
 
 ### Day 36 & 37: June 24 & 25 2022
 
-**Today's Progress**: Practised writing ansible playbooks, and successfully wote a playbook to automate deployment of a LAMP -Linux Apache2 Mariadb and PHP stack. I will resume with the @freecodecamp responsive web design course tomorrow.
+**Today's Progress**: Practiced writing Ansible playbooks, and successfully wrote a playbook to automate deployment of a LAMP -Linux Apache2 Mariadb and PHP stack on an EC2 instance on AWS. I will resume with the @freecodecamp responsive web design course tomorrow.
 
 **Thoughts:** It is going well.
 
@@ -264,6 +264,15 @@
 ### Day 38: June 26, 2022
 
 **Today's Progress**: Continued with the @freecodecamp responsive web design course. Completed the learn CSS Transforms by building a Penguin Module.
+
+**Thoughts:** It is going well.
+
+**Link to work:** [Free Code Camp course](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+
+
+### Day 39: June 27, 2022
+
+**Today's Progress**: Continued with the @freecodecamp responsive web design course. Completed the learn CSS Animation by building a Ferris Wheel Module and started the Personal Portfolio Webpage Certification project.
 
 **Thoughts:** It is going well.
 
