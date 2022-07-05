@@ -288,6 +288,42 @@
 **Link to work:** https://github.com/Sanim16/100-days-of-code/tree/master/Day%20040/personal_portfolio/index.html
 
 
+### Day 41: June 29, 2022
+
+**Today's Progress**: Watched a tutorial on Terraform on YouTube https://youtu.be/SLB_c_ayRMo and applied it to a project, deployed EC2 machines on Amazon Cloud.
+
+**Thoughts:** It is going well. 
+
+**Link to work:** https://youtu.be/SLB_c_ayRMo
+
+
+### Day 42: June 30, 2022
+
+**Today's Progress**: Practiced writing Terraform code, and successfully wrote code to automate deployment of EC2 instances and a VPC on Amazon cloud.
+
+**Thoughts:** It is going well.
+
+**Link to work:** https://youtu.be/SLB_c_ayRMo
+
+
+### Day 43 & 44: July 01 & 02, 2022
+
+**Today's Progress**: Practised writing Ansible and Terraform code to deploy infrastructure on AWs and configure same. I had to shut down the resources after deployment due to free tier limitations. I will start CS50x tomorrow.
+
+**Thoughts:** It is going well.
+
+**Link to work:** https://youtu.be/SLB_c_ayRMo
+
+
+### Day 45 & 46: July 03 & 04, 2022
+
+**Today's Progress**: Started the [edx CS50x](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x?index=product&queryID=790fe9c388c7bdf3201b10f464748728&position=1). I successfully completed problem set 0. I will add the Devops bootcamp to the enable me keep practising AWS, Kubernetes and Devops skills.
+
+**Thoughts:** It is going well.
+
+**Link to work:** https://github.com/Sanim16/100-days-of-code/tree/master/Scratch%20Project.sb3
+
+
 <!--
 Sample Log Day Reporting Format
 ### Day 0: February 30, 2016 (Example 2)
