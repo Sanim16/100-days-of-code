@@ -321,7 +321,7 @@
 
 **Thoughts:** It is going well.
 
-**Link to work:** https://github.com/Sanim16/100-days-of-code/tree/master/Scratch%20Project.sb3
+**Link to work:** https://github.com/Sanim16/100-days-of-code/tree/master/Day%20046/Scratch_Project.sb3
 
 
 <!--
