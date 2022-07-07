@@ -324,6 +324,15 @@
 **Link to work:** https://github.com/Sanim16/100-days-of-code/tree/master/Day%20046/Scratch_Project.sb3
 
 
+### Day 47 & 48: July 05 & 06, 2022
+
+**Today's Progress**: Continued with the [edx CS50x](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x?index=product&queryID=790fe9c388c7bdf3201b10f464748728&position=1). I completed the lecture and have completed 2 of the 3 exercises in problem set 1. I will add the Devops bootcamp to the enable me keep practising AWS, Kubernetes and Devops skills.
+
+**Thoughts:** It is going well.
+
+**Link to work:** https://www.edx.org/course/introduction-computer-science-harvardx-cs50x?index=product&queryID=790fe9c388c7bdf3201b10f464748728&position=1
+
+
 <!--
 Sample Log Day Reporting Format
 ### Day 0: February 30, 2016 (Example 2)
