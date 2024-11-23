@@ -33,7 +33,7 @@
 
 **Thoughts:** It was good and hands on project work definitely beats tutorials.
 
-**Link to work:** https://github.com/Sanim16/100-days-of-code/tree/master/Day%20003/survey_form/index.html
+**Link to work:** https://github.com/Sanim16/100-days-of-code/tree/master/1st_attempt/Day%20003/survey_form/index.html
 
 
 ### Day 4: May 23, 2022
@@ -78,7 +78,7 @@
 
 **Thoughts:** It went well.
 
-**Link to work:** https://github.com/Sanim16/100-days-of-code/tree/master/Day%20008/flexbox_training/index.html
+**Link to work:** https://github.com/Sanim16/100-days-of-code/tree/master/1st_attempt/Day%20008/flexbox_training/index.html
 
 
 ### Day 9: May 28, 2022
@@ -87,7 +87,7 @@
 
 **Thoughts:** It was good and hands on project work helps with retention and showing any knowledge gaps.
 
-**Link to work:** https://github.com/Sanim16/100-days-of-code/tree/master/Day%20009/tribute/index.html
+**Link to work:** https://github.com/Sanim16/100-days-of-code/tree/master/1st_attempt/Day%20009/tribute/index.html
 
 
 ### Day 10: May 29, 2022
@@ -168,7 +168,7 @@
 
 **Thoughts:** It was good and hands on project is always relevant to show any gaps in knowledge.
 
-**Link to work:** https://github.com/Sanim16/100-days-of-code/tree/master/Day%20021/technical_documentation/index.html
+**Link to work:** https://github.com/Sanim16/100-days-of-code/tree/master/1st_attempt/Day%20021/technical_documentation/index.html
 
 
 ### Day 22, 23, 24 & 25: June 10, 11, 12 & 13 2022
@@ -231,7 +231,7 @@
 
 **Thoughts:** It is going well.
 
-**Link to work:** https://github.com/Sanim16/100-days-of-code/tree/master/Day%20032/product_landing/index.html
+**Link to work:** https://github.com/Sanim16/100-days-of-code/tree/master/1st_attempt/Day%20032/product_landing/index.html
 
 
 ### Day 33: June 21 2022
@@ -258,7 +258,7 @@
 
 **Thoughts:** It is going well.
 
-**Link to work:** https://github.com/Sanim16/100-days-of-code/tree/master/Day%20037/ansible/lamp_playbook.yaml
+**Link to work:** https://github.com/Sanim16/100-days-of-code/tree/master/1st_attempt/Day%20037/ansible/lamp_playbook.yaml
 
 
 ### Day 38: June 26, 2022
@@ -285,7 +285,7 @@
 
 **Thoughts:** It is going well, and I am getting more excited daily. 
 
-**Link to work:** https://github.com/Sanim16/100-days-of-code/tree/master/Day%20040/personal_portfolio/index.html
+**Link to work:** https://github.com/Sanim16/100-days-of-code/tree/master/1st_attempt/Day%20040/personal_portfolio/index.html
 
 
 ### Day 41: June 29, 2022
@@ -321,7 +321,7 @@
 
 **Thoughts:** It is going well.
 
-**Link to work:** https://github.com/Sanim16/100-days-of-code/tree/master/Day%20046/Scratch_Project.sb3
+**Link to work:** https://github.com/Sanim16/100-days-of-code/tree/1st_attempt/master/Day%20046/Scratch_Project.sb3
 
 
 ### Day 47 & 48: July 05 & 06, 2022
