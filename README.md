@@ -7,7 +7,7 @@
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
-## Since I have decided to join:
+## Since I have decided to rejoin:
 
 1.  **Code minimum an hour every day for the next 100 days.**
 2.  **Encourage at least two other people in the challenge on Twitter every day! Pay it forward!**

@@ -1,17 +1,17 @@
 # 100 Days Of Code - Log
 
-### Day 0: Nov 22, 2024
+### Day 0: May 19, 2022
 
-**Today's Progress**: Restarted the @udemy 100 Days of Code: The Complete Python Pro Bootcamp. I had gotten up to day 16 before I stopped.
+**Today's Progress**: Started the @freecodecamp responsive web design course. Completed the Learn HTML module
 
-**Thoughts:** I redid the following days: `Day 1`, `Day 2` & `Day 3` and it's all coming back. link to code [here](https://github.com/Sanim16/100-days-of-code/tree/master/Day_001/)
+**Thoughts:** It was smooth and progressed fuildly, and I feel I'm getting the hang of it.
 
-**Link to work:** [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/?kw=100&src=sac&couponCode=BFCPSALE24)
+**Link to work:** [Free Code Camp course](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
 
-<!-- ### Day 1: Nov 23, 2024
+### Day 1: May 20, 2022
 
-**Today's Progress**: Continued with the @udemy 100 Days of Code: The Complete Python Pro Bootcamp. Completed the Learn Basic CSS module
+**Today's Progress**: Continued with the @freecodecamp responsive web design course. Completed the Learn Basic CSS module
 
 **Thoughts:** It went well although i was a bit sleepy. I will look into changing the time slot for it.
 
@@ -354,4 +354,4 @@ Sample Log Day Reporting Format
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
---> -->
+-->
