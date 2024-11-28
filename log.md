@@ -27,6 +27,32 @@
 **Link to work:** https://github.com/Sanim16/100-days-of-code/tree/master/Day_002/
 
 
+### Day 3: Nov 25, 2024
+
+**Today's Progress**: Continued with the @udemy [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/?kw=100&src=sac&couponCode=BFCPSALE24).
+
+**Thoughts:** I redid the following days: `Day 7` and it's all coming back. link to code [here](https://github.com/Sanim16/100-days-of-code/tree/master/Day_003/)
+
+**Link to work:** https://github.com/Sanim16/100-days-of-code/tree/master/Day_003/
+
+
+### Day 4: Nov 26, 2024
+
+**Today's Progress**: Continued with the @udemy [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/?kw=100&src=sac&couponCode=BFCPSALE24).
+
+**Thoughts:** I redid the following days: `Day 8` and it's all coming back. link to code [here](https://github.com/Sanim16/100-days-of-code/tree/master/Day_004/)
+
+**Link to work:** https://github.com/Sanim16/100-days-of-code/tree/master/Day_004/
+
+
+### Day 5: Nov 27, 2024
+
+**Today's Progress**: Continued with the @udemy [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/?kw=100&src=sac&couponCode=BFCPSALE24).
+
+**Thoughts:** I redid the following days: `Day 9` and it's all coming back. link to code [here](https://github.com/Sanim16/100-days-of-code/tree/master/Day_005/)
+
+**Link to work:** https://github.com/Sanim16/100-days-of-code/tree/master/Day_005/
+
 <!--
 Sample Log Day Reporting Format
 ### Day 0: February 30, 2016 (Example 2)
