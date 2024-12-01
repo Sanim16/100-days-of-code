@@ -80,6 +80,15 @@
 
 **Link to work:** https://github.com/Sanim16/100-days-of-code/tree/master/Day_008/
 
+
+### Day 9: Dec 01, 2024
+
+**Today's Progress**: Continued with the @udemy [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/?kw=100&src=sac&couponCode=BFCPSALE24).
+
+**Thoughts:** I redid the following days: `Day 13` and it's all coming back. link to code [here](https://github.com/Sanim16/100-days-of-code/tree/master/Day_008/)
+
+**Link to work:** https://github.com/Sanim16/100-days-of-code/tree/master/Day_008/
+
 <!--
 Sample Log Day Reporting Format
 ### Day 0: February 30, 2016 (Example 2)
