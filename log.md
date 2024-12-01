@@ -85,9 +85,9 @@
 
 **Today's Progress**: Continued with the @udemy [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/?kw=100&src=sac&couponCode=BFCPSALE24).
 
-**Thoughts:** I redid the following days: `Day 13` and it's all coming back. link to code [here](https://github.com/Sanim16/100-days-of-code/tree/master/Day_008/)
+**Thoughts:** I redid the following days: `Day 13` and it's all coming back. link to code [here](https://github.com/Sanim16/100-days-of-code/tree/master/Day_009/)
 
-**Link to work:** https://github.com/Sanim16/100-days-of-code/tree/master/Day_008/
+**Link to work:** https://github.com/Sanim16/100-days-of-code/tree/master/Day_009/
 
 <!--
 Sample Log Day Reporting Format
