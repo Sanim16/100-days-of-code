@@ -41,10 +41,7 @@ while play_game:
         print("\n" * 50)
         print(logo)
         print(f"You're right! Current score: {score}.")
-        if score % 3 == 0:
-            players['a'] = players['b']
-        else:
-            players['a'] = players[pick]
+        players['a'] = players['b']
     else:
         print(f"Sorry, that's wrong. Final score: {score}")
         play_game = False
