@@ -116,6 +116,15 @@
 
 **Link to work:** https://github.com/Sanim16/100-days-of-code/tree/master/Day_012/
 
+
+### Day 13: Dec 05, 2024
+
+**Today's Progress**: Continued with the @udemy [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/?kw=100&src=sac&couponCode=BFCPSALE24).
+
+**Thoughts:** I'm up to date and I did the following days: `Day 17`. link to code [here](https://github.com/Sanim16/100-days-of-code/tree/master/Day_013/)
+
+**Link to work:** https://github.com/Sanim16/100-days-of-code/tree/master/Day_013/
+
 <!--
 Sample Log Day Reporting Format
 ### Day 0: February 30, 2016 (Example 2)
