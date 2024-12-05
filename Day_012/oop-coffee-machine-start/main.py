@@ -14,7 +14,7 @@ while coffee_machine:
         coffee.report()
         money.report()
     elif choice == "off":
-        exit()
+        coffee_machine = False
     elif menu.find_drink(choice):
         if coffee.is_resource_sufficient(menu.find_drink(choice)):
             if money.make_payment(menu.find_drink(choice).cost):

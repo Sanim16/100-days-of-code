@@ -88,7 +88,7 @@ while coffee_machine:
     }
     choice = input("What would you like? (espresso/latte/cappuccino): ").lower()
     if choice == "off":
-        exit()
+        coffee_machine = False
     elif choice == "report":
         display_report(report)
     elif choice == "espresso" or choice == "latte" or choice == "cappuccino":
