@@ -6,8 +6,9 @@
 * [Log - click here to see my progress](log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
-* [1st attempt - click here to see my first attempt](./1st_attempt/)
-* [2nd attempt - click here to see my first attempt](./2nd_attempt/)
+* [1st attempt - click here to see my first attempt](./code/old_attempts/1st_attempt/)
+* [2nd attempt - click here to see my first attempt](./code/old_attempts/2nd_attempt/)
+* [Current attempt - click here to see my current attempt](./code/_current_attempt/)
 
 ## I have decided to reboot my `#100DaysOfCode Challenge`:
 
