@@ -18,7 +18,8 @@
 
 ## Projects and Ideas
 1. [FreeCodeCamp](https://www.freecodecamp.com)
-2. [The Odin Project](http://www.theodinproject.com/)
+2. [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code)
+3. [The Odin Project](http://www.theodinproject.com/)
 
 ## Other resources
 1. [CodeNewbie - #100DaysOfCode Slack Channel](https://codenewbie.typeform.com/to/uwsWlZ)

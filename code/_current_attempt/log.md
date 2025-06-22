@@ -1,24 +1,12 @@
 # 100 Days Of Code - Log
 
-### 1st Attempt started on May 19, 2022
+### Day 0: Jun 22, 2025
 
-**The Progress logs**: [1st attempt - click here to see my first attempt](./code/old_attempts/1st_attempt).
+**Today's Progress**: Restarted the @udemy [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code).
 
-**Thoughts:** 
+**Thoughts:** I restarted the course.
 
-
-### 2nd Attempt started on Nov 22, 2024
-
-**The Progress logs**: [2nd attempt - click here to see my second attempt](./code/old_attempts/2nd_attempt).
-
-**Thoughts:** 
-
-
-### Current Attempt started on Jun 22, 2025
-
-**The Progress logs**: [Current attempt - click here to see my current attempt](./code/_current_attempt).
-
-**Thoughts:** On-going
+**Link to work:** https://github.com/Sanim16/100-days-of-code/tree/master/Day_000/
 
 
 <!--

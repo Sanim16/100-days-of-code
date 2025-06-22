@@ -4,7 +4,7 @@ This was my First attempt at the `#100DaysOfCode` Challenge. It started May 19, 
 
 ## Contents
 
-* [1st_Log - click here to see my log](1st_log.md)
+* [Log - click here to see my log](log.md)
 
 ## I decided to reboot my `#100DaysOfCode Challenge`:
-[log here](../log.md)
+[Current log here](../../../log.md)

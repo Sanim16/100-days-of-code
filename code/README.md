@@ -1,15 +1,12 @@
-# I've joined the #100DaysOfCode Challenge
+# I joined the #100DaysOfCode Challenge
 
 ## Contents
 
-* [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
-* [FAQ](FAQ.md)
-* [Resources](resources.md)
-* [1st attempt - click here to see my first attempt](./1st_attempt/)
-* [2nd attempt - click here to see my first attempt](./2nd_attempt/)
+* [Current attempt - click here to see my current attempt](./_current_attempt)
+* [1st attempt - click here to see my first attempt](./old_attempts/1st_attempt)
+* [2nd attempt - click here to see my first attempt](./old_attempts/2nd_attempt)
 
-## I have decided to reboot my `#100DaysOfCode Challenge`:
+## I decided to reboot my `#100DaysOfCode Challenge`:
 
 1.  **Code minimum an hour every day for the next 100 days.**
 2.  **Encourage at least two other people in the challenge on Twitter every day! Pay it forward!**
