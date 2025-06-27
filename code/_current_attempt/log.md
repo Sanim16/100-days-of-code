@@ -24,13 +24,21 @@
 
 **Link to work:** https://github.com/Sanim16/100-days-of-code/tree/master/Day_002/
 
-### Day 2: Jun 25, 2025
+### Day 3: Jun 25, 2025
 
 **Today's Progress**: Restarted the @udemy [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code).
 
 **Thoughts:** I did day 4 of the course.
 
-**Link to work:** https://github.com/Sanim16/100-days-of-code/tree/master/Day_002/
+**Link to work:** https://github.com/Sanim16/100-days-of-code/tree/master/Day_003/
+
+### Day 4: Jun 26, 2025
+
+**Today's Progress**: Restarted the @udemy [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code).
+
+**Thoughts:** I did day 5 of the course.
+
+**Link to work:** https://github.com/Sanim16/100-days-of-code/tree/master/Day_004/
 
 
 <!--
