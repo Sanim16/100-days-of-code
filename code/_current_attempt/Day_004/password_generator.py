@@ -23,4 +23,4 @@ random.shuffle(password)
 generated_password = ""
 for character in password:
     generated_password += character
-print(generated_password)
+print(f"Your password is {generated_password}")
