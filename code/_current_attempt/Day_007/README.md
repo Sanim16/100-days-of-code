@@ -2,6 +2,6 @@
 
 I have started the #100DaysOfCode Challenge and I am using the @udemy [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code) course as a guide.
 
-The day 6 consists of building the code below.
+The day 7 consists of building the code below.
 
-* [Hangman](./hangman.py)
+* [Caesar Cipher](./caesar.cipher.py)
