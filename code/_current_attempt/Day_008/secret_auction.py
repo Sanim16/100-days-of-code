@@ -1,10 +1,19 @@
 import art
 
+def winning_bid(bidding_dictionary):
+    highest_bid = 0
+    winner = ""
+    for bid in bidding_dictionary:
+        if bidding_dictionary[bid] > highest_bid:
+            highest_bid = bidding_dictionary[bid]
+            winner = bid
+    print(f"The winner is {winner} with a bid of ${highest_bid}.")
+
+
 print(art.logo)
 
 additional_bids = True
-highest_bid = 0
-winner = ""
+bids = {}
 while additional_bids is True:
     name = input("What is your name?: ")
     price = float(input("What is your bid?: $"))
@@ -20,8 +29,4 @@ while additional_bids is True:
     else:
         print("\n" * 50)
 
-    for bidder in bids:
-        if bids[bidder] > highest_bid:
-            winner = bidder
-            highest_bid = bids[bidder]
-print(f"The winner is {winner} with a bid of ${highest_bid}")
+winning_bid(bids)
