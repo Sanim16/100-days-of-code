@@ -5,3 +5,4 @@ I have started the #100DaysOfCode Challenge and I am using the @udemy [100 Days 
 The day 10 consists of building the code below.
 
 * [Blackjack](./blackjack.py)
+* [Blackjack using functions](./blackjack_with_functions.py)
