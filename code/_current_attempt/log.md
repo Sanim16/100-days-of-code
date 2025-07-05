@@ -94,7 +94,7 @@
 
 **Thoughts:** I finished day 11 of the course.
 
-**Link to work:** https://github.com/Sanim16/100-days-of-code/tree/master/Day_010/
+**Link to work:** https://github.com/Sanim16/100-days-of-code/tree/master/Day_011/
 
 ### Day 12: Jul 04, 2025
 
@@ -102,7 +102,7 @@
 
 **Thoughts:** I did day 12 of the course.
 
-**Link to work:** https://github.com/Sanim16/100-days-of-code/tree/master/Day_010/
+**Link to work:** https://github.com/Sanim16/100-days-of-code/tree/master/Day_012/
 
 
 <!--

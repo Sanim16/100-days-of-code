@@ -10,7 +10,8 @@ print("I'm thinking of a number between 1 and 100.")
 # TODO-2: Select a random number between 1 and 100 then store in variable called guess.
 
 guess = random.randint(1,100)
-print(f"Pssst, the correct answer is {guess}")
+# Uncomment the line below for testing
+# print(f"Pssst, the correct answer is {guess}")
 
 # TODO-3: Ask player to select difficulty level and store in variable called difficulty.
 
