@@ -17,19 +17,14 @@ def display_cards(player_card_list, computer_card_list):
 
 def tally_cards(player_sum, computer_sum):
     if player_sum > 21:
-        display_cards(players_cards, computers_cards)
         print("You went over. You lose 😭")
-    elif player_sum > 21:
-        display_cards(players_cards, computers_cards)
+    elif computer_sum > 21:
         print("Opponent went over. You Win 😁")
     elif player_sum > computer_sum:
-        display_cards(players_cards, computers_cards)
         print("You win 😁")
     elif player_sum < computer_sum:
-        display_cards(players_cards, computers_cards)
         print("You lose 😭")
     elif player_sum == computer_sum:
-        display_cards(players_cards, computers_cards)
         print("It's a Draw")
 
 play_game = input("Do you want to play a game of BlackJack? Type 'y' or 'n': ").lower()
@@ -42,10 +37,10 @@ while play_game == "y":
         show_cards(players_cards, computers_cards)
 
         if sum(players_cards) == 21:
-            print("blackjack, You win 😁")
+            print("Win with a Blackjack, 😎")
             play_game = input("Do you want to play a game of BlackJack? Type 'y' or 'n': ").lower()
         elif sum(computers_cards) == 21:
-            print("Blackjack, You lose 😭")
+            print("Opponent has Blackjack, You lose 😱")
             play_game = input("Do you want to play a game of BlackJack? Type 'y' or 'n': ").lower()
         else:
             keep_dealing = input("Type 'y' to get another card, type 'n' to pass: ").lower()
@@ -62,6 +57,7 @@ while play_game == "y":
             while sum(computers_cards) < 17:
                 deal_cards(computers_cards)
 
+            display_cards(players_cards, computers_cards)
             tally_cards(sum(players_cards), sum(computers_cards))
 
             play_game = input("Do you want to play a game of BlackJack? Type 'y' or 'n': ").lower()
