@@ -11,10 +11,6 @@ def show_cards(player_card_list, computer_card_list):
     print(f"Your cards: {player_card_list}, current score: {sum(player_card_list)}")
     print(f"Computer's first card: {computer_card_list[0]}")
 
-def display_cards(player_card_list, computer_card_list):
-    print(f"Your final hand: {player_card_list}, final score: {sum(player_card_list)}")
-    print(f"Computer's final hand: {computer_card_list}, computer's final score: {sum(computer_card_list)}")
-
 def tally_cards(player_sum, computer_sum):
     if player_sum > 21:
         print("You went over. You lose 😭")
@@ -57,7 +53,8 @@ while play_game == "y":
             while sum(computers_cards) < 17:
                 deal_cards(computers_cards)
 
-            display_cards(players_cards, computers_cards)
+            print(f"Your final hand: {players_cards}, final score: {sum(players_cards)}")
+            print(f"Computer's final hand: {computers_cards}, computer's final score: {sum(computers_cards)}")
             tally_cards(sum(players_cards), sum(computers_cards))
 
             play_game = input("Do you want to play a game of BlackJack? Type 'y' or 'n': ").lower()
