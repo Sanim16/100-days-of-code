@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Current Attempt started on Jun 22, 2025
+
+**The Progress logs**: [Current attempt - click here to see my current attempt](./code/_current_attempt).
+
+**Thoughts:** On-going
+
 ### 1st Attempt started on May 19, 2022
 
 **The Progress logs**: [1st attempt - click here to see my first attempt](./code/old_attempts/1st_attempt).
@@ -12,13 +18,6 @@
 **The Progress logs**: [2nd attempt - click here to see my second attempt](./code/old_attempts/2nd_attempt).
 
 **Thoughts:** 
-
-
-### Current Attempt started on Jun 22, 2025
-
-**The Progress logs**: [Current attempt - click here to see my current attempt](./code/_current_attempt).
-
-**Thoughts:** On-going
 
 
 <!--
