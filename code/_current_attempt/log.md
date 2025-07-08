@@ -120,6 +120,14 @@
 
 **Link to work:** https://github.com/Sanim16/100-days-of-code/tree/master/Day_014/
 
+### Day 15: Jul 07, 2025
+
+**Today's Progress**: Restarted the @udemy [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code).
+
+**Thoughts:** I did day 15 of the course.
+
+**Link to work:** https://github.com/Sanim16/100-days-of-code/tree/master/Day_015/
+
 
 <!--
 Sample Log Day Reporting Format
