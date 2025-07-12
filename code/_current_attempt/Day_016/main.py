@@ -2,24 +2,23 @@ from menu import Menu
 from coffee_maker import CoffeeMaker
 from money_machine import MoneyMachine
 
-MyMenu = Menu()
-MyCoffee = CoffeeMaker()
-MyProfit = MoneyMachine()
+my_menu = Menu()
+my_coffee = CoffeeMaker()
+my_profit = MoneyMachine()
 
 
 is_on = True
 while is_on:
-    drink_choice = input(f"What would you like? {MyMenu.get_items()}:")
+    drink_choice = input(f"What would you like? {my_menu.get_items()}:")
     if drink_choice == "off":
         print("Going into maintenance mode, Goodbye")
         is_on = False
     elif drink_choice == "report":
-        MyCoffee.report()
-        MyProfit.report()
+        my_coffee.report()
+        my_profit.report()
     else:
-        selection = MyMenu.find_drink(drink_choice)
+        selection = my_menu.find_drink(drink_choice)
         if selection is not None:
-            if MyCoffee.is_resource_sufficient(selection):
-                if MyProfit.make_payment(selection.cost):
-                    MyCoffee.make_coffee(selection)
-
+            if my_coffee.is_resource_sufficient(selection):
+                if my_profit.make_payment(selection.cost):
+                    my_coffee.make_coffee(selection)
