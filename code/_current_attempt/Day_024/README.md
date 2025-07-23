@@ -8,6 +8,6 @@ The day 24 consists of
 
 * Updating [Snake](../Day_021/main.py) from day 21 to have and persist high score.
 
-building the Turtle crossing game, code below.
+building the Mail merge program, code below.
 
-* [Turtle Crossing Game](./main.py)
+* [Mail merge](./main.py)
