@@ -232,6 +232,14 @@
 
 **Link to work:** https://github.com/Sanim16/100-days-of-code/tree/master/Day_028/
 
+### Day 29: Jul 21, 2025
+
+**Today's Progress**: Restarted the @udemy [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code).
+
+**Thoughts:** I did day 29 of the course.
+
+**Link to work:** https://github.com/Sanim16/100-days-of-code/tree/master/Day_029/
+
 
 <!--
 Sample Log Day Reporting Format
