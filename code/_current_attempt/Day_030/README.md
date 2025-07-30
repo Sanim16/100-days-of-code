@@ -6,6 +6,6 @@ The day 30 consists of:
 
 * Updating [NATO Alphabet Project](../Day_026/main.py) from day 26 to handle errors without crashing.
 
-updating the Password Manager program, from day 29. Code below:
+updating the Password Manager program, from day 29 to include search for previous passwords. Code below:
 
 * [Password Manager](./main.py)
