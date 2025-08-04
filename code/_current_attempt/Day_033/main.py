@@ -44,8 +44,7 @@ def is_dark():
 
 while True:
     time.sleep(60)
-    if iss_is_overhead() or is_dark():
-        print("Its dark and iss is overhead")
+    if iss_is_overhead() and is_dark():
         connection = smtplib.SMTP(SMTP_SERVER_ADDRESS, PORT)
         connection.starttls()
         connection.login(user=my_email, password=my_password)
